@@ -1,0 +1,11 @@
+{
+  "name": "ducor_eth_roulette",
+  "version": "0.0.1",
+  "description": "ETH data pusher usage example based on one-round roulette game",
+  "main": "src/index.js",
+  "author": "Anatoly Bardukov",
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-solidity": "1.11.0"
+  }
+}
